@@ -1,0 +1,7 @@
+CREATE TABLE players3 (
+    id NUMBER PRIMARY KEY,
+    name VARCHAR2(100),
+    nickname VARCHAR2(100),
+    age NUMBER,
+    team VARCHAR2(100)
+);
